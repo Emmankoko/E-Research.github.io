@@ -6,3 +6,14 @@
 .image-with-text img {
     margin-right: 10px;
 }
+
+svg{
+    fill: currentColor;
+    width: 15px;
+    height: 15px;
+}
+
+img.svg{
+    width: 15px;
+    height: 15px;
+}
